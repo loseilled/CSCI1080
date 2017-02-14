@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+<title> student loseilled hw2 index</title>
+
+<a href="stylesheet">hw2.html</a>
+<h1>Greatness Awaits</h1>
+
+	<div>
+	
+	<p>I'm just typing stuff.</p>
+div p{
+	color:blue;
+	}
+</div>
+
+<footer>
+	<ul>
+		<li>This is just a footer>
+		</ul>
+</footer>
+
+
+<style>
+/* Styles go here. */
+header li {
+list-style: none;
+
+a: hover, a:active{
+background-color: red;
+color: #00011
+}
+
+header li:nth-child(3)
+{
+font-size:30;
+}
+<body>
+
+section div:nth-child(odd)
+{
+background-color:gray;
+}
+</header li>
+</a>
+</header>
+</style>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
